@@ -1,2 +1,1 @@
-# test
-my first repository
+https://stepik.org/course/575/syllabus
