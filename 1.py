@@ -1,5 +1,5 @@
 text = input()
-total = 0
+total = 0 
 while text != 'stop':
     num = int(text)
     total += num
